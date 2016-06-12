@@ -1,7 +1,7 @@
 {
   "name": "goextract",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Extract functions in Go files using the goextract CLI",
   "keywords": [
     "go",
@@ -42,5 +42,4 @@
     "fs-plus": "^2.8.1",
     "temp": "^0.8.3"
   }
-
 }
