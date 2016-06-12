@@ -5,9 +5,6 @@
   "description": "A method extract",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-text-editor": "goextract:toggle"
-  },
   "repository": "https://github.com/atom/atom-goextract",
   "license": "MIT",
   "engines": {
