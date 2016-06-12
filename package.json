@@ -2,10 +2,14 @@
   "name": "goextract",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A method extract",
+  "description": "Extract functions in Go files using the goextract CLI",
   "keywords": [
+    "go",
+    "golang",
+    "goextract",
+    "extract"
   ],
-  "repository": "https://github.com/atom/atom-goextract",
+  "repository": "https://github.com/petergtz/atom-goextract",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
