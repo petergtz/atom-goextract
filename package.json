@@ -1,7 +1,7 @@
 {
   "name": "goextract",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Extract functions in Go files using the goextract CLI",
   "keywords": [
     "go",
